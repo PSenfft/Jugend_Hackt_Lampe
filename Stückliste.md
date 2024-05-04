@@ -7,6 +7,7 @@
 - [ ] M3 Mutter
 - [ ] M3 Schraube ~6mm
 - [ ] 4x Torx TX20 4x25mm
+- [ ] 1x Micro USB-Verlängerung https://www.mouser.de/ProductDetail/SparkFun/CAB-15464?qs=XeJtXLiO41TW%252BnYEDtaNzg%3D%3D&mgh=1&vip=1&gad_source=1
 
 
 https://www.thingiverse.com/thing:3875453
