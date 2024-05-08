@@ -8,6 +8,7 @@
 - [ ] M3 Schraube ~6mm
 - [ ] 4x Torx TX20 4x25mm
 - [ ] 1x Micro USB-Verlängerung https://www.mouser.de/ProductDetail/SparkFun/CAB-15464?qs=XeJtXLiO41TW%252BnYEDtaNzg%3D%3D&mgh=1&vip=1&gad_source=1
+- [ ] 1x Power LED              https://www.reichelt.de/entwicklerboards-led-modul-3-w-debo-led-3w-p282634.html?PROVID=2788&gad_source=1&gclid=Cj0KCQjwxeyxBhC7ARIsAC7dS38h_dGjVZ3ubjP6L_UT272pJAT8hUZfwHLKAOIMjXJH8OEvErSqeLwaAmODEALw_wcB
 
 
 https://www.thingiverse.com/thing:3875453
