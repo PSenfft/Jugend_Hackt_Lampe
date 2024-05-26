@@ -1,6 +1,6 @@
 # Mein erstes Projekt
 
-## Wie du dein eigenes Projekt erstellst und die Entwicklungsumgebung kennenlernst
+## Wie du dein eigenes Projekt erstellst
 
 </br>
 
@@ -32,3 +32,7 @@
 8. Um die Änderungen zu speicheren, klicke auf das Speichersymbol rechts davon.
 ![Projektnamen_ändern](/code/tutorials/images/makecode_project_new_name.png)
 9. Fertig! Jetzt weißt du wie du ein Projekt erstellst und benennst.
+
+</br>
+
+> **_Nächster Schritt:_** "Die Entwicklungsumgebung kennen lernen": [Hier klicken](/code/tutorials/02%20Die%20Entwicklungsumgebung%20kennen%20lernen.md)
