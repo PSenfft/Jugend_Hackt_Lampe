@@ -26,3 +26,9 @@
 ![Projekt_Übersicht](/code/tutorials/images/makecode_project_overview.png)
 4. Um ein neues Projekt zu erstellen, klicke einfach auf "Neues Projekt". Warte danach kurz bis sich das Projekt öffnet:
 ![Leeres_Projekt](/code/tutorials/images/makecode_project_empty.png)
+5. Perfekt! Du hast bereits dein erstes Projekt erstellt. Damit wir es später besser zuordnen können, sollten wir dem Projekt noch ein Titel geben.
+6. Klicke dazu unten auf das Textfeld rechts von "Herunterladen". Initial steht in diesem Feld "Ohne Titel".
+7. Tippe hier den Namen des Projektes ein. Nennen wir es "Mein erstes Projekt".
+8. Um die Änderungen zu speicheren, klicke auf das Speichersymbol rechts davon.
+![Projektnamen_ändern](/code/tutorials/images/makecode_project_new_name.png)
+9. Fertig! Jetzt weißt du wie du ein Projekt erstellst und benennst.
