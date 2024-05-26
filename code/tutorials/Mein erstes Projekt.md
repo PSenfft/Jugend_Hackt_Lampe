@@ -1,26 +1,22 @@
 # Mein erstes Projekt
 
-## Wie du dein eigenes Projekt erstellst und die Entwicklungsumgebung kennenlernst:
+## Wie du dein eigenes Projekt erstellst und die Entwicklungsumgebung kennenlernst
 
 </br>
 
 ### 1. Was ist eine Entwicklungsumgebung?
 
-```txt
-Eine Entwicklungsumgebung ist wie ein spezielles Programm auf deinem Computer, das dir beim Programmieren hilft. Es ist dein "Editor" für die Programmierung. Beispiele für solche Programme sind Visual Studio Code.
-```
+    Eine Entwicklungsumgebung ist wie ein spezielles Programm auf deinem Computer, das dir beim Programmieren hilft. Es ist dein "Editor" für die Programmierung. Beispiele für solche Programme sind Visual Studio Code.
 
 ### 2. Warum brauchst du eine Entwicklungsumgebung?
 
-```txt
-Eine Entwicklungsumgebung macht das Schreiben von Code einfacher und organisierter. Sie hilft dir, Fehler zu finden und deinen Code besser zu verstehen.
-```
+    Eine Entwicklungsumgebung macht das Schreiben von Code einfacher und organisierter. Sie hilft dir, Fehler zu finden und deinen Code besser zu verstehen.
 
 </br>
 
 ## Dein erstes Projekt erstellen
 
-### Für die Entwicklung benutzen wir eine Entwicklungsumgebung, welche in deinem Webbrowser läuft. Das heißt so viel, dass wir eine Website benutzen und somit kein Programm herunterladen und installieren müssen.
+### Für die Entwicklung benutzen wir eine Entwicklungsumgebung, welche in deinem Webbrowser läuft. Das heißt so viel, dass wir eine Website benutzen und somit kein Programm herunterladen und installieren müssen
 
 ### Anleitung "Projekt erstellen"
 
