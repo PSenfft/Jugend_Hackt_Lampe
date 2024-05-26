@@ -1,8 +1,10 @@
-b# Die Entwicklungsumgebung kennen lernen
+# Die Entwicklungsumgebung kennen lernen
 
 ## Was deine Entwicklungsumgebung alles kann
 
 > **_Wichtig:_** Dir sagt das Wort "Entwicklungsumgebung" nichts? Dann les nochmal hier nach: [Klick mich!](/code/tutorials/01%20Mein%20erstes%20Projekt.md#1.%20Was%20ist%20eine%20Entwicklungsumgebung?)
+
+</br>
 
 > **_Auch wichtig:_** Nachfolgend werden dir die Funktionen der Entwicklungsumgebung erklärt. Zögere nicht einfach auf Knöpfe, Menüs, odere anderes zu klicken um die Entwicklungsumgebung selbst zu erkunden!
 
