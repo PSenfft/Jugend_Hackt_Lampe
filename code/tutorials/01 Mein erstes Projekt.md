@@ -2,8 +2,6 @@
 
 ## Wie du dein eigenes Projekt erstellst
 
-</br>
-
 ### 1. Was ist eine Entwicklungsumgebung?
 
     Eine Entwicklungsumgebung ist wie ein spezielles Programm auf deinem Computer, das dir beim Programmieren hilft. Es ist dein "Editor" für die Programmierung. Beispiele für solche Programme sind Visual Studio Code.
@@ -21,18 +19,18 @@
 ### Anleitung "Projekt erstellen"
 
 1. Öffne einen Webbrowser deiner Wahl. Gängig genutzte Webbrowser sind Chrome, Firefox, Microsoft Edge oder Safari.
-2. Gehe auf die makecode Seite von Adafruit. Dazu kannst entweder folgenden Link kopieren und einfügen, oder einfach darauf klicken: [https://makecode.adafruit.com/#](https://makecode.adafruit.com/#)
+2. Gehe auf die makecode Seite von Adafruit. Dazu kannst entweder folgenden Link kopieren und einfügen, oder einfach darauf klicken: [makecode.adafruit.com](https://makecode.adafruit.com/#)
 3. Dein Webbrowser sollte ähnlich wie folgt aussehen:
-![Projekt_Übersicht](/code/tutorials/images/makecode_project_overview.png)
+![Projekt_Übersicht](./images/makecode_project_overview.png)
 4. Um ein neues Projekt zu erstellen, klicke einfach auf "Neues Projekt". Warte danach kurz bis sich das Projekt öffnet:
-![Leeres_Projekt](/code/tutorials/images/makecode_project_empty.png)
+![Leeres_Projekt](./images/makecode_project_empty.png)
 5. Perfekt! Du hast bereits dein erstes Projekt erstellt. Damit wir es später besser zuordnen können, sollten wir dem Projekt noch ein Titel geben.
 6. Klicke dazu unten auf das Textfeld rechts von "Herunterladen". Initial steht in diesem Feld "Ohne Titel".
 7. Tippe hier den Namen des Projektes ein. Nennen wir es "Mein erstes Projekt".
-8. Um die Änderungen zu speicheren, klicke auf das Speichersymbol rechts davon.
-![Projektnamen_ändern](/code/tutorials/images/makecode_project_new_name.png)
+8. Um die Änderungen zu speichern, klicke auf das Speichersymbol rechts davon.
+![Projektnamen_ändern](./images/makecode_project_new_name.png)
 9. Fertig! Jetzt weißt du wie du ein Projekt erstellst und benennst.
 
 </br>
 
-> **_Nächster Schritt:_** "Die Entwicklungsumgebung kennen lernen": [Hier klicken](/code/tutorials/02%20Die%20Entwicklungsumgebung%20kennen%20lernen.md)
+> **_Nächster Schritt:_** "Die Entwicklungsumgebung kennen lernen": [Hier klicken](./02%20Die%20Entwicklungsumgebung%20kennen%20lernen.pdf)
