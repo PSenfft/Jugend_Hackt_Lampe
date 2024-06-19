@@ -6,14 +6,11 @@
 
 > **_Auch wichtig:_** Nachfolgend werden dir die Funktionen der Entwicklungsumgebung erklärt. Zögere nicht einfach auf Knöpfe, Menüs, oder anderes zu klicken um die Entwicklungsumgebung selbst zu erkunden!
 
-</br>
-
 ## Übersicht
 
 > **Voraussetzung** hier für ist, dass du bereits ein Projekt auf [makecode.adafruit.com](https://makecode.adafruit.com/#) offen hast. (Schritte von [#01](./01%20Mein%20erstes%20Projekt.pdf))
-> Nachfolgend werden dir hier die einzelnen Funktionen der Entwicklungsumgebung grob erklärt. Wenn du einzelne Dinge nicht direkt verstehst, mache dir keine Sorgen, in späteren Beispielen werden diese auch ausführlich erklärt.
 
-</br>
+> Nachfolgend werden dir hier die einzelnen Funktionen der Entwicklungsumgebung grob erklärt. Wenn du einzelne Dinge nicht direkt verstehst, mache dir keine Sorgen, in späteren Beispielen werden diese auch ausführlich erklärt.
 
 ### 1. Die Menüleiste
 
