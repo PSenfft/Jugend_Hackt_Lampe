@@ -1,10 +1,8 @@
-b# Mein erstes Programm
+# Mein erstes Programm
 
 ## Wie du dein erstes Programm für dein Playground Board erstellst
 
 > **Voraussetzung** hier für ist, dass du bereits ein Projekt auf [makecode.adafruit.com](https://makecode.adafruit.com/#) offen hast. (Schritte von [#01](./01%20Mein%20erstes%20Projekt.pdf))
-
-</br>
 
 > **Ziel** hier ist, dass wir am Ende aus deinem Playground Board eine kleine Taschenlampe machen.
 
@@ -13,13 +11,13 @@ b# Mein erstes Programm
 1. Zu erst müssen wir unseren Arbeitsbereich aufräumen. Dazu machst du auf den grünen Block "dauerhaft" einen rechts-klick und klickst danach auf "Block löschen".
 ![Project_right_click_dauerhaft](./images/makecode_project_right_click_dauerhaft.png)
 
-> **Überlegung**: Was benötigen wir für eine Taschenlampe?
+    **Überlegung**: Was benötigen wir für eine Taschenlampe?
 
-    1. Schalter, um die Lampe anzumachen.
-    2. LEDs / Lampen für das Licht.
-    3. Schalter, um die Lampe wieder auszumachen.
+        1. Schalter, um die Lampe anzumachen.
+        2. LEDs / Lampen für das Licht.
+        3. Schalter, um die Lampe wieder auszumachen.
 
-2. Fangen wir damit an, die Lampe anzumachen. Hierfür benötigen wir die Eingabe eines Knopfes. Wie du vielleicht schon gemerkt hast hat das Playground Board zwei Knöpfe (Knopf A und Knopf B).
+2. Fangen wir damit an, die Lampe anzumachen. Hierfür benötigen wir die Eingabe eines Knopfes. Wie du vielleicht schon gemerkt hast, hat das Playground Board zwei Knöpfe (Knopf A und Knopf B).
 Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Kategorie "Eingabe". Klicke dazu auf "Eingabe" und schaue dir die Blöcke in diesem Menu an. Die Blöcke sind beschriftet und zeigen damit wie sie agieren.
 ![Project_menu_eingabe](./images/makecode_project_menu_eingabe.png)
 
