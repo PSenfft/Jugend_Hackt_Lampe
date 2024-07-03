@@ -13,4 +13,6 @@ Da diese Anleitungen eher zum Machen, als zum Lesen da sind, solltest du direkt 
 1. [Mein erstes Projekt](./01%20Mein%20erstes%20Projekt.pdf)
 2. [Die Entwicklungsumgebung](./02%20Die%20Entwicklungsumgebung%20kennen%20lernen.pdf)
 3. [Mein erstes Programm](./03%20Mein%20erstes%20Programm.pdf)
-4. [Ansteuerung eines Pins](./03%20Mein%20erstes%20Programm.pdf)
+4. [Programm auf den Playground installieren](./)
+5. [Mein erstes Programm 2](./)
+6. [Ansteuerung eines Pins](./03%20Mein%20erstes%20Programm.pdf)
