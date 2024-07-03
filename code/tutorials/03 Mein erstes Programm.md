@@ -59,4 +59,19 @@ Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Katego
 
 8. Da wir den Knopf B benötigen, wähle diesen mit einem links-klick aus.
 
-9. 
+9. Jetzt möchten wir, bei Knopf A, eine Funktion für Knopf B hinzufügen. Wir möchten die Lichter deaktivieren, als suchen wir uns den passenden Block. Dazu suchen wir unter "Licht", den "alle Lichter ausschalten" Block und ziehen diesen in den Körper des Knopf B - Block.
+
+> **Tipp**: Um den "alle Lichter ausschalten" Block zu finden, musst du mit dem Mausrad nach unten scrollen.
+
+![project_led_off](./images/03%20Mein%20erstes%20Programm/makecode_project_alle_Lichter_ausschalten.png)
+
+![button_b_led_off](./images/03%20Mein%20erstes%20Programm/makecode_project_knopf_b_led_aus.png)
+
+> **Fertig!** -> Starte deinen Simulator und probiere deine Taschenlampe aus. Auf Knopf A sollten deine LEDs angehen und auf Knopf B wieder aus.
+
+</br>
+
+Du kannst stolz auf dich sein! Du hast dein erstes Projekt umgesetzt und ein Programm geschrieben.
+Eventuell hast du dich gefragt, wie du dein Programm auf dein echtes Playground Board bringst und diese Frage ist durchaus berechtigt! Deswegen wird dieser (sehr wichtiger!) Prozess im nächsten Schritt erklärt: [Hier klicken](./04%20Programm%20auf%20den%20Playground%20installieren.pdf)
+
+Eventuell hast du aber auch erst mal mehr Lust auf mehr Programmieren und möchtest erst später dein Programm auf dein Board installieren. Deswegen kannst du auch ohne Bedenken den nächsten Schritt sorgenlos überspringen und später wiederholen. Mehr Programmieren gibt es in Schritt 5 und 6. Hier würde ich dir jedoch empfehlen, zu erst Schritt 5 vor 6 zu machen: [Zu Schritt 5](./05%20Mein%20erstes%20Programm%202.pdf)
