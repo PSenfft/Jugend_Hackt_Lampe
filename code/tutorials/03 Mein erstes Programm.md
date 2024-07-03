@@ -19,16 +19,16 @@
 
 2. Fangen wir damit an, die Lampe anzumachen. Hierfür benötigen wir die Eingabe eines Knopfes. Wie du vielleicht schon gemerkt hast, hat das Playground Board zwei Knöpfe (Knopf A und Knopf B).
 Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Kategorie "Eingabe". Klicke dazu auf "Eingabe" und schaue dir die Blöcke in diesem Menu an. Die Blöcke sind beschriftet und zeigen damit wie sie agieren.
-![Project_menu_eingabe](./images/03%20Mein%20erstes%20Programm/03%20Mein%20erstes%20Programm/makecode_project_menu_eingabe.png)
+    ![Project_menu_eingabe](./images/03%20Mein%20erstes%20Programm/03%20Mein%20erstes%20Programm/makecode_project_menu_eingabe.png)
 
 3. Vielleicht ist dir beim Lesen auch schon aufgefallen, dass wir hier den ersten Block "wenn Knopf A geklickt" benötigen. Also ziehen wir diesen Block mit links-klick auf unsere Arbeitsfläche.
-![Project_wenn_Knopf_A](./images/03%20Mein%20erstes%20Programm/makecode_project_wenn_knopf_a_geklickt.png)
+    ![Project_wenn_Knopf_A](./images/03%20Mein%20erstes%20Programm/makecode_project_wenn_knopf_a_geklickt.png)
 
 4. So weit so gut! Jedoch müssen wir jetzt unserem Knopf noch etwas zu tun geben. Wir wollen unsere Lichter anmachen. Folgend gehen wir in das "Licht" Menu. Hier suchen wir uns ein Block raus, welcher in unseren "Wenn Knopf A gedrückt" Block passt.
-![Project_menu_licht](./images/03%20Mein%20erstes%20Programm/makecode_project_menu_licht.png)
+    ![Project_menu_licht](./images/03%20Mein%20erstes%20Programm/makecode_project_menu_licht.png)
 
 5. Wie dir vielleicht schon aufgefallen ist, passen hier mehrere Blöcke. Für unsere Taschenlampe brauchen aber lediglich den "setze alle Pixel auf (rot)" Block. Ziehe diesen Block wieder mit linksklick erst in die Arbeitsfläche und dann in den bereits existierenden Block. (So wie auf dem Bild unten)
-![Project_led_on_button](./images/03%20Mein%20erstes%20Programm/makecode_project_button_led_on.png)
+    ![Project_led_on_button](./images/03%20Mein%20erstes%20Programm/makecode_project_button_led_on.png)
 
 </br>
 
@@ -39,23 +39,23 @@ Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Katego
 ## Benutzen wir den Simulator
 
 1. Klicke auf das grüne Dreieck um den Simulator zu starten.
-![project_led_start_sim](./images/03%20Mein%20erstes%20Programm/makecode_project_led_start_sim.png)
+    ![project_led_start_sim](./images/03%20Mein%20erstes%20Programm/makecode_project_led_start_sim.png)
 
 2. Klicke auf den linken Knopf (Knopf A) um die LEDs zu aktivieren.
-![project_activate_leds](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sim_btn_a.png)
+    ![project_activate_leds](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sim_btn_a.png)
 
 3. Die Lampen sollten jetzt an sein. (Wenn nicht, überprüfen deine Code-Blöcke!)
-![project_sim_led_on](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sim_on.png)
+    ![project_sim_led_on](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sim_on.png)
 
 </br>
 
 > **Wunderbar!** Die Simulation und unser Code funktioniert. Jetzt müssen wir nur noch die Lichter deaktivieren.
 
 6. Um die Lichter zu deaktivieren benutzen wir den zweiten (B) Knopf. Dazu benötigen wir wieder einen "Eingabe" Block, um genau zu sein den gleichen Block! Ziehe dir einen neuen "wenn Knopf A geklickt" Block auf die Arbeitsfläche.
-![project_second_on_btn_block](./images/03%20Mein%20erstes%20Programm/makecode_project_lamp_second_on_btn.png)
+    ![project_second_on_btn_block](./images/03%20Mein%20erstes%20Programm/makecode_project_lamp_second_on_btn.png)
 
 7. Du kannst die meisten Blöcke konfigurieren, genau wie den neuen "wenn Knopf A geklickt" Block. Klicke hierzu auf "Knopf A".
-![project_second_sub_menu](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sub_btn.png)
+    ![project_second_sub_menu](./images/03%20Mein%20erstes%20Programm/makecode_project_led_sub_btn.png)
 
 8. Da wir den Knopf B benötigen, wähle diesen mit einem links-klick aus.
 
