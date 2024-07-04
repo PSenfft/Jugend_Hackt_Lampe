@@ -19,14 +19,14 @@
 ### Anleitung "Projekt erstellen"
 
 1. Öffne einen Webbrowser deiner Wahl. Gängig genutzte Webbrowser sind Chrome, Firefox, Microsoft Edge oder Safari.
-2. Gehe auf die makecode Seite von Adafruit. Dazu kannst entweder folgenden Link kopieren und einfügen, oder einfach darauf klicken: [makecode.adafruit.com](https://makecode.adafruit.com/#)
+2. Gehe auf die makecode Seite von Adafruit. Dazu kannst du entweder folgenden Link kopieren und einfügen, oder einfach darauf klicken: [makecode.adafruit.com](https://makecode.adafruit.com/#)
 3. Dein Webbrowser sollte ähnlich wie folgt aussehen:
 ![Projekt_Übersicht](./images/01%20Mein%20erstes%20Projekt/makecode_project_overview.png)
-4. Um ein neues Projekt zu erstellen, klicke einfach auf "Neues Projekt". Warte danach kurz bis sich das Projekt öffnet:
+4. Um ein neues Projekt zu erstellen, klicke einfach auf "Neues Projekt". Warte danach kurz, bis sich das Projekt öffnet:
 ![Leeres_Projekt](./images/01%20Mein%20erstes%20Projekt/makecode_project_empty.png)
 5. Perfekt! Du hast bereits dein erstes Projekt erstellt. Damit wir es später besser zuordnen können, sollten wir dem Projekt noch ein Titel geben.
 6. Klicke dazu unten auf das Textfeld rechts von "Herunterladen". Initial steht in diesem Feld "Ohne Titel".
-7. Tippe hier den Namen des Projektes ein. Nennen wir es "Mein erstes Projekt".
+7. Tippe hier den Namen des Projektes ein. Nennen wir es mal "Mein erstes Projekt".
 8. Um die Änderungen zu speichern, klicke auf das Speichersymbol rechts davon.
 ![Projektnamen_ändern](./images/01%20Mein%20erstes%20Projekt/makecode_project_new_name.png)
 9. Fertig! Jetzt weißt du wie du ein Projekt erstellst und benennst.
