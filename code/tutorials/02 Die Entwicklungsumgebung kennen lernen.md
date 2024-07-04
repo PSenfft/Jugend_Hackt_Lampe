@@ -40,7 +40,7 @@
 ![Project_Footer](./images/02%20Die%20Entwicklungsumgebung%20kennen%20lernen/makecode_project_fusszeile.png)
 
     Zuletzt kommen wir zur Fußzeile unserer Entwicklungsumgebung. Hier haben wir bereits den Namen des Projektes geändert und gespeichert! Jedoch kann man hier noch mehr machen:
-    Hier ist es möglich, dein Programm herunterzuladen und auf dein echtes Playground Board zu spielen. Ebenfalls kannst du, wenn du auf die Knöpfe ganz rechts links klickst, entweder dein Programmierbereich vergrößern oder verkleinern.
+    Hier ist es möglich, dein Programm herunterzuladen und auf dein echtes Playground Board zu spielen. Ebenfalls kannst du, wenn du auf die Knöpfe ganz rechts links-klickst, entweder dein Programmierbereich vergrößern oder verkleinern.
 
 </br>
 
