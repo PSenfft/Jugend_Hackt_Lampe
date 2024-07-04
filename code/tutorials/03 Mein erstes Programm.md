@@ -2,13 +2,13 @@
 
 ## Wie du dein erstes Programm für dein Playground Board erstellst
 
-> **Voraussetzung** hier für ist, dass du bereits ein Projekt auf [makecode.adafruit.com](https://makecode.adafruit.com/#) offen hast. (Schritte von [#01](./01%20Mein%20erstes%20Projekt.pdf))
+> **Voraussetzung** hierfür ist, dass du bereits ein Projekt auf [makecode.adafruit.com](https://makecode.adafruit.com/#) offen hast. (Schritte von [#01](./01%20Mein%20erstes%20Projekt.pdf))
 
 > **Ziel** hier ist, dass wir am Ende aus deinem Playground Board eine kleine Taschenlampe machen.
 
 ## Anleitung
 
-1. Zu erst müssen wir unseren Arbeitsbereich aufräumen. Dazu machst du auf den grünen Block "dauerhaft" einen rechts-klick und klickst danach auf "Block löschen".
+1. Zuerst müssen wir unseren Arbeitsbereich aufräumen. Dazu machst du auf den grünen Block "dauerhaft" einen rechts-klick und klickst danach auf "Block löschen".
 ![Project_right_click_dauerhaft](./images/03%20Mein%20erstes%20Programm/makecode_project_right_click_dauerhaft.png)
 
     **Überlegung**: Was benötigen wir für eine Taschenlampe?
@@ -18,16 +18,16 @@
         3. Schalter, um die Lampe wieder auszumachen.
 
 2. Fangen wir damit an, die Lampe anzumachen. Hierfür benötigen wir die Eingabe eines Knopfes. Wie du vielleicht schon gemerkt hast, hat das Playground Board zwei Knöpfe (Knopf A und Knopf B).
-Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Kategorie "Eingabe". Klicke dazu auf "Eingabe" und schaue dir die Blöcke in diesem Menu an. Die Blöcke sind beschriftet und zeigen damit wie sie agieren.
+Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Kategorie "Eingabe". Klicke dazu auf "Eingabe" und schaue dir die Blöcke in diesem Menu an. Die Blöcke sind beschriftet und zeigen damit, wie sie agieren.
     ![Project_menu_eingabe](./images/03%20Mein%20erstes%20Programm/03%20Mein%20erstes%20Programm/makecode_project_menu_eingabe.png)
 
 3. Vielleicht ist dir beim Lesen auch schon aufgefallen, dass wir hier den ersten Block "wenn Knopf A geklickt" benötigen. Also ziehen wir diesen Block mit links-klick auf unsere Arbeitsfläche.
     ![Project_wenn_Knopf_A](./images/03%20Mein%20erstes%20Programm/makecode_project_wenn_knopf_a_geklickt.png)
 
-4. So weit so gut! Jedoch müssen wir jetzt unserem Knopf noch etwas zu tun geben. Wir wollen unsere Lichter anmachen. Folgend gehen wir in das "Licht" Menu. Hier suchen wir uns ein Block raus, welcher in unseren "Wenn Knopf A gedrückt" Block passt.
+4. So weit so gut! Jedoch müssen wir jetzt unserem Knopf noch etwas zu tun geben. Wir wollen unsere Lichter anmachen. Dazu gehen wir in das "Licht" Menu. Hier suchen wir uns einen Block raus, welcher in unseren "Wenn Knopf A gedrückt" Block passt.
     ![Project_menu_licht](./images/03%20Mein%20erstes%20Programm/makecode_project_menu_licht.png)
 
-5. Wie dir vielleicht schon aufgefallen ist, passen hier mehrere Blöcke. Für unsere Taschenlampe brauchen aber lediglich den "setze alle Pixel auf (rot)" Block. Ziehe diesen Block wieder mit linksklick erst in die Arbeitsfläche und dann in den bereits existierenden Block. (So wie auf dem Bild unten)
+5. Wie dir vielleicht schon aufgefallen ist, passen hier mehrere Blöcke. Für unsere Taschenlampe brauchen aber lediglich den "setze alle Pixel auf (rot)" Block. Ziehe diesen Block wieder mit links-klick erst in die Arbeitsfläche und dann in den bereits existierenden Block (so wie auf dem Bild unten).
     ![Project_led_on_button](./images/03%20Mein%20erstes%20Programm/makecode_project_button_led_on.png)
 
 </br>
@@ -49,9 +49,9 @@ Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Katego
 
 </br>
 
-> **Wunderbar!** Die Simulation und unser Code funktioniert. Jetzt müssen wir nur noch die Lichter deaktivieren.
+> **Wunderbar!** Die Simulation und unser Code funktioniert. Jetzt müssen wir nur noch die Lichter ausschalten.
 
-6. Um die Lichter zu deaktivieren benutzen wir den zweiten (B) Knopf. Dazu benötigen wir wieder einen "Eingabe" Block, um genau zu sein den gleichen Block! Ziehe dir einen neuen "wenn Knopf A geklickt" Block auf die Arbeitsfläche.
+6. Um die Lichter auszuschalten benutzen wir den zweiten (B) Knopf. Dazu benötigen wir wieder einen "Eingabe" Block - um genau zu sein den gleichen Block! Ziehe dir einen neuen "wenn Knopf A geklickt" Block auf die Arbeitsfläche.
     ![project_second_on_btn_block](./images/03%20Mein%20erstes%20Programm/makecode_project_lamp_second_on_btn.png)
 
 7. Du kannst die meisten Blöcke konfigurieren, genau wie den neuen "wenn Knopf A geklickt" Block. Klicke hierzu auf "Knopf A".
@@ -59,7 +59,7 @@ Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Katego
 
 8. Da wir den Knopf B benötigen, wähle diesen mit einem links-klick aus.
 
-9. Jetzt möchten wir, bei Knopf A, eine Funktion für Knopf B hinzufügen. Wir möchten die Lichter deaktivieren, als suchen wir uns den passenden Block. Dazu suchen wir unter "Licht", den "alle Lichter ausschalten" Block und ziehen diesen in den Körper des Knopf B - Block.
+9. Jetzt möchten wir, wie bei Knopf A, eine Funktion für Knopf B hinzufügen. Wir möchten die Lichter ausschalten, alss suchen wir uns den passenden Block. Dazu suchen wir unter "Licht" den "alle Lichter ausschalten" Block und ziehen diesen in den Körper des Knopf B-Blocks.
 
 > **Tipp**: Um den "alle Lichter ausschalten" Block zu finden, musst du mit dem Mausrad nach unten scrollen.
 
@@ -72,6 +72,6 @@ Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Katego
 </br>
 
 Du kannst stolz auf dich sein! Du hast dein erstes Projekt umgesetzt und ein Programm geschrieben.
-Eventuell hast du dich gefragt, wie du dein Programm auf dein echtes Playground Board bringst und diese Frage ist durchaus berechtigt! Deswegen wird dieser (sehr wichtiger!) Prozess im nächsten Schritt erklärt: [Hier klicken](./04%20Programm%20auf%20den%20Playground%20installieren.pdf)
+Eventuell hast du dich gefragt, wie du dein Programm auf dein echtes Playground Board bringst, und diese Frage ist durchaus berechtigt! Deswegen wird dieser (sehr wichtiger!) Prozess im nächsten Schritt erklärt: [Hier klicken](./04%20Programm%20auf%20den%20Playground%20installieren.pdf)
 
-Eventuell hast du aber auch erst mal mehr Lust auf mehr Programmieren und möchtest erst später dein Programm auf dein Board installieren. Deswegen kannst du auch ohne Bedenken den nächsten Schritt sorgenlos überspringen und später wiederholen. Mehr Programmieren gibt es in Schritt 5 und 6. Hier würde ich dir jedoch empfehlen, zu erst Schritt 5 vor 6 zu machen: [Zu Schritt 5](./05%20Mein%20erstes%20Programm%202.pdf)
+Eventuell hast du aber auch erstmal mehr Lust auf mehr Programmieren und möchtest erst später dein Programm auf dein Board installieren. Deswegen kannst du auch ohne Bedenken den nächsten Schritt sorgenlos überspringen und später wiederholen. Mehr Programmieren gibt es in Schritt 5 und 6. Hier würde ich dir jedoch empfehlen, zu erst Schritt 5 vor 6 zu machen: [Zu Schritt 5](./05%20Mein%20erstes%20Programm%202.pdf)
