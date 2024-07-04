@@ -80,3 +80,5 @@ In unserem Fall wollen wir also wenn das Licht an ist -> es deaktivieren und es 
 </br>
 
 > **Fertig:** Deine Taschenlampe sollte nun allein über den A-Knopf steuerbar sein. (Falls nicht, vergleiche dein Code mit dem letzten Bild.)
+
+Weiter geht es nur noch mit "Ideen und Aufgaben" Teil, indem du für dein eigenes Projekt Inspiration und Ideen sammeln kannst: [Nächster Schritt](./06%20Ideen%20und%20Aufgaben.pdf)
