@@ -16,6 +16,7 @@ Da diese Anleitungen eher zum Machen als zum Lesen da sind, solltest du direkt m
 4. [Programm auf den Playground installieren](./04%20Programm%20auf%20den%20Playground%20installieren.pdf)
 5. [Mein erstes Programm 2](./05%20Mein%20erstes%20Programm%202.pdf)
 6. [Ideen und Aufgaben](./06%20Ideen%20und%20Aufgaben.pdf)
+7. [Extra: Pins und externe Module](./07%20Pins%20und%20externe%20Module%20(EXTRA).pdf)
 
 ## Jugend hackt
 
