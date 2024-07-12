@@ -2,17 +2,17 @@
 
 Hey! Cool, dass du es bis hierher geschafft hast. Hoffentlich hattest du bis hierher viel Spaß, welcher jetzt auch nicht enden soll. Dir sind mit deinem Playground Board keine Grenzen gesetzt und du kannst frei damit experimentieren, basteln und hacken so viel du möchtest!
 
-Vielleicht hast du schon bereits eigene Ideen, die du umsetzen möchtest oder vielleicht brauchst du noch etwas Inspiration - und genau hierfür ist diese "Anleitung".
+Vielleicht hast du schon bereits eigene Ideen, die du umsetzen möchtest, oder vielleicht brauchst du noch etwas Inspiration - und genau hierfür ist diese "Anleitung".
 
-Eine gute Quelle für Inspiration ist Adafruit Seite selbst. Auf der Hauptseite findest du viele gute, Schritt für Schritt Anleitungen die du einfach und bequem nachverfolgen kannst.
+Eine gute Quelle für Inspiration ist die Adafruit Seite selbst. Auf der Hauptseite findest du viele gute Schritt für Schritt Anleitungen, denen du einfach und bequem nachverfolgen kannst.
 
 ![instructions](./images/06%20Ideen%20und%20Aufgaben/adafruit_instructions.png)
 
-Des Weiteren kannst du dich aber auch einfach durch die Funktionen klicken und heraus finden was mit deinem Playground Board alles möglich ist.
+Des Weiteren kannst du dich aber auch einfach durch die Funktionen klicken und heraus finden, was mit deinem Playground Board alles möglich ist.
 
 ![menus](./images/06%20Ideen%20und%20Aufgaben/menus.png)
 
-> Hier sind zum Beispiel einige Ideen deine Taschenlampe zu verändern:
+> Hier sind zum Beispiel einige Ideen, deine Taschenlampe zu verändern:
 
 1. Licht
     1. Lass eine Animation spielen, wenn die LEDs angehen.
@@ -22,7 +22,7 @@ Des Weiteren kannst du dich aber auch einfach durch die Funktionen klicken und h
 2. Eingabe
     1. Lass die Taschenlampe an- und ausgehen, wenn du das Playground Board schüttelst.
     2. Lass die Taschenlampe an- und ausgehen, wenn es laut ist.
-    3. Lass die Taschenlampe angehen , wenn es dunkel ist.
+    3. Lass die Taschenlampe angehen, wenn es dunkel ist.
 
 3. Musik
     1. Spiele einen Soundeffekt ab wenn die Taschenlampe angeht.
@@ -31,6 +31,6 @@ Des Weiteren kannst du dich aber auch einfach durch die Funktionen klicken und h
 
 4. Schleifen
     1. Lass deine Taschenlampe endlos blinken.
-    2. Lass deine Taschenlampe 3 mal Blinken, wie eingeschaltet wird.
+    2. Lass deine Taschenlampe 3 mal Blinken, wenn angeschaltet wird.
 
-> Ab hier bist du wohl auf dich gestellt! Viel Spaß beim Hacken mit deinem Board.
+> Ab hier bist du wohl auf dich alleine gestellt! Viel Spaß beim Hacken mit deinem Board.
