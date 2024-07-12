@@ -8,7 +8,7 @@
 
 ## Anleitung
 
-> Vielleicht dachtest du schon beim Programmieren der Taschenlampe, dass normale Taschenlampen nur einen Knopf haben anstatt zwei. Bei einer herkömmlichen Taschenlampe schaltet der selbe Schalter die Lampe(n) an ound aus. Genau das setzen wir nun in deinem Taschenlampenprogramm um:
+> Vielleicht dachtest du schon beim Programmieren der Taschenlampe, dass normale Taschenlampen nur einen Knopf haben anstatt zwei. Bei einer herkömmlichen Taschenlampe schaltet der selbe Schalter die Lampe(n) an und aus. Genau das setzen wir nun in deinem Taschenlampenprogramm um:
 
 </br>
 
