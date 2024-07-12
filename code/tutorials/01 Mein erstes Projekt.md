@@ -14,7 +14,7 @@
 
 ## Dein erstes Projekt erstellen
 
-### Für die Entwicklung benutzen wir eine Entwicklungsumgebung, welche in deinem Webbrowser läuft. Das heißt so viel, dass wir eine Website benutzen und somit kein Programm herunterladen und installieren müssen
+### Für die Entwicklung benutzen wir eine Entwicklungsumgebung, welche in deinem Webbrowser läuft. Das heißt so viel, dass wir eine Website benutzen und somit kein Programm herunterladen und installieren müssen.
 
 ### Anleitung "Projekt erstellen"
 

@@ -19,7 +19,7 @@
 
 2. Fangen wir damit an, die Lampe anzumachen. Hierfür benötigen wir die Eingabe eines Knopfes. Wie du vielleicht schon gemerkt hast, hat das Playground Board zwei Knöpfe (Knopf A und Knopf B).
 Um den Knöpfen eine Funktion zu geben benötigen wir einen Block aus der Kategorie "Eingabe". Klicke dazu auf "Eingabe" und schaue dir die Blöcke in diesem Menu an. Die Blöcke sind beschriftet und zeigen damit wie sie agieren.
-    ![Project_menu_eingabe](./images/03%20Mein%20erstes%20Programm/03%20Mein%20erstes%20Programm/makecode_project_menu_eingabe.png)
+    ![Project_menu_eingabe](./images/03%20Mein%20erstes%20Programm/makecode_project_menu_eingabe.png)
 
 3. Vielleicht ist dir beim Lesen auch schon aufgefallen, dass wir hier den ersten Block "wenn Knopf A geklickt" benötigen. Also ziehen wir diesen Block mit links-klick auf unsere Arbeitsfläche.
     ![Project_wenn_Knopf_A](./images/03%20Mein%20erstes%20Programm/makecode_project_wenn_knopf_a_geklickt.png)
